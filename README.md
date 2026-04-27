@@ -27,7 +27,6 @@ Please follow this format when adding cheats:
 
 ### Notes
 - Any extra tips or context about how to activate cheats.
-```
 
 ---
 
